@@ -20,6 +20,9 @@ namespace LFNet.Stock
         /// 代码
         /// </summary>
         public string Code { get; set; }
+
+
+        
     }
 
 
