@@ -39,7 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IStockDayInfoProvider.cs" />
     <Compile Include="IStockInfoProvider.cs" />
+    <Compile Include="StockDayInfo.cs" />
     <Compile Include="StockInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

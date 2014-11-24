@@ -21,4 +21,12 @@ namespace LFNet.Stock
         /// </summary>
         public string Code { get; set; }
     }
+
+
+    public enum StockType
+    {
+        sz,
+        sh,
+        ds,
+    }
 }
